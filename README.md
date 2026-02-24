@@ -1,5 +1,5 @@
 
-# Offense-to-Defense: Threat Detection with AWS GuardDuty
+# Offense-to-Defense: Threat Detection with AWS GuardDuty (DVF-Cybersecurity)
 
 This project demonstrates an end-to-end adversary emulation in AWS, deploying a vulnerable application, simulating attacks, detecting them with AWS native security services, and applying remediations. It follows the full cycle:
 
